@@ -7,8 +7,8 @@
 
 **test_model.ipynb**-тестирование модели
 
-**model_3.json**-модель нейросети
+**model_6.json**-модель нейросети
 
-**model_3.h5**-полученные веса
+**model_6.h5**-полученные веса
 
 **Словарь слов с ударениями**: [link](https://drive.google.com/file/d/1XhIYT_F8dAGMQ8jmZcpFooQxttpFZYlO/view?usp=sharing)
